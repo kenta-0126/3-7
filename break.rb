@@ -5,5 +5,5 @@ while i <= 10 do
     break
   end
   puts i
-  i += 
+  i += 1
 end
